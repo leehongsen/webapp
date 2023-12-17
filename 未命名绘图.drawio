@@ -1,35 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T06:45:44.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kvxsOToCm6OGzeWtRKG8" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T06:56:28.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IQLcMPdc4bGKa7ZqyLsv" version="22.1.11" type="github">
   <diagram name="第 1 页" id="AN6ldcmXwKZ_Ya7eOYBY">
-    <mxGraphModel dx="1494" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1510" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-1" value="&lt;font face=&quot;ZCOOL KuaiLe&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot;&gt;监控应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily= ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BZCOOL%2BKuaiLe;" vertex="1" parent="1">
-          <mxGeometry x="25" y="229" width="70" height="40" as="geometry" />
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-1" value="&lt;font face=&quot;ZCOOL KuaiLe&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot;&gt;监控应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily= ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BZCOOL%2BKuaiLe;" parent="1" vertex="1">
+          <mxGeometry x="20" y="258" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot;&gt;服务器ip表&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" vertex="1" parent="1">
-          <mxGeometry x="25" y="50" width="80" height="90" as="geometry" />
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot;&gt;服务器ip表&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=ZCOOL KuaiLe;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZCOOL%2BKuaiLe;" parent="1" vertex="1">
+          <mxGeometry x="20" y="50" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-3" value="&lt;font face=&quot;ZCOOL KuaiLe&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=+ZCOOL+KuaiLe&quot;&gt;所属区域&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nrm_QGzcfDuFEVkFxr-K-2">
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-3" value="&lt;font face=&quot;ZCOOL KuaiLe&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=+ZCOOL+KuaiLe&quot;&gt;所属区域&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nrm_QGzcfDuFEVkFxr-K-2" vertex="1">
           <mxGeometry y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;ip地址&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nrm_QGzcfDuFEVkFxr-K-2">
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;ip地址&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="nrm_QGzcfDuFEVkFxr-K-2" vertex="1">
           <mxGeometry y="60" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-6" value="&lt;font face=&quot;ZCOOL KuaiLe&quot;&gt;缓存&lt;br&gt;存放存活iot应用信息&lt;br&gt;key为所属区域&lt;br&gt;value为对应ip&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="340" width="130" height="60" as="geometry" />
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-6" value="&lt;font face=&quot;ZCOOL KuaiLe&quot;&gt;缓存&lt;br&gt;存放存活iot应用信息&lt;br&gt;key为所属区域&lt;br&gt;value为对应ip&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="350" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=+ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;iot服务器1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=+ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;iot服务器1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="294" y="227" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;iot服务器2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="320" width="120" height="30" as="geometry" />
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;iot服务器2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="293" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nrm_QGzcfDuFEVkFxr-K-1" target="nrm_QGzcfDuFEVkFxr-K-7">
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nrm_QGzcfDuFEVkFxr-K-1" target="nrm_QGzcfDuFEVkFxr-K-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nrm_QGzcfDuFEVkFxr-K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.998;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nrm_QGzcfDuFEVkFxr-K-7" target="nrm_QGzcfDuFEVkFxr-K-1">
+        <mxCell id="nrm_QGzcfDuFEVkFxr-K-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.998;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nrm_QGzcfDuFEVkFxr-K-7" target="nrm_QGzcfDuFEVkFxr-K-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucSmqAR6NVpOnke9nggz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nrm_QGzcfDuFEVkFxr-K-2" target="nrm_QGzcfDuFEVkFxr-K-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucSmqAR6NVpOnke9nggz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.478;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nrm_QGzcfDuFEVkFxr-K-1" target="nrm_QGzcfDuFEVkFxr-K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucSmqAR6NVpOnke9nggz-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;ZCOOL KuaiLe&amp;quot;; background-color: initial;&quot;&gt;监控应用根据服务器ip表遍历请求iot服务器&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;ZCOOL KuaiLe&amp;quot;; background-color: initial;&quot;&gt;监控应用通过http请求发送缓存中的ip内容给iot服务器，&lt;/span&gt;&lt;/div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=+ZCOOL+KuaiLe&quot; face=&quot;ZCOOL KuaiLe&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;iot接收后计算一致性hash，算出自己要连接的设备群&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、如果iot无法服务异常，监控应用请求状态异常，则将该ip从缓存中移除&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、如果iot服务正常返回，则将该iot的ip重新设置进缓存中&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="125" y="40" width="240" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
